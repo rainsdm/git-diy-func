@@ -16,11 +16,9 @@
       <a href="#getting-started">如何使用本项目</a>
     </li>
     <li><a href="#usage">用法</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#roadmap">开发路线图</a></li>
+    <li><a href="#license">协议</a></li>
+    <li><a href="#contact">联系方式</a></li>
   </ol>
 </details>
 <br/>
