@@ -59,7 +59,7 @@
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+&emsp;&emsp;本软件使用 Mozilla 2.0 协议，请尊重开发者的版权。
 
 
 <!-- CONTACT -->
