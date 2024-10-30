@@ -1,5 +1,4 @@
 <!--推荐网站：https:shields.io-->
-<a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -50,9 +49,6 @@
 
 &emsp;&emsp;启动git bash后，根据想要登录平台的不同，选择0表示登录github，选择1表示登录gitee。脚本会自动检查你是否添加了密钥。如果没有添加密钥，它将要求你输入对应密钥的密码，按回车键确认。
 
-<p align="right">(<a href="#readme-top">回到页首</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## 开发路线图
@@ -61,16 +57,11 @@
     - [x] 简体中文
 - [ ] 选择合适的协议
 
-<p align="right">(<a href="#readme-top">回到页首</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">回到页首</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -79,6 +70,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Robert Wilson - lysy3280@163.com
 
 Project Link: [git-diy-func](https://github.com/rainsdm/git-diy-func)
-
-<p align="right">(<a href="#readme-top">回到页首</a>)</p>
 
