@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Robert Wilson - lysy3280@163.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [git-diy-func](https://github.com/rainsdm/git-diy-func)
 
 <p align="right">(<a href="#readme-top">回到页首</a>)</p>
 
